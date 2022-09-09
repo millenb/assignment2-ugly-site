@@ -1,0 +1,65 @@
+body {
+    background-color: lightblue;
+  }
+  
+  #TheTitle {
+    color: rgb(172, 48, 48);
+    background-color: gold;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  h2 {
+    color: rgb(172, 48, 48);
+    text-transform:lowercase;
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  h3 {
+    color: cornflowerblue;
+    text-align: center;
+  }
+
+  h4 {
+    color: rgb(50, 3, 240, 0.05);
+    text-align: right;
+  }
+
+  h5 {
+    text-align: center;
+    background-color: rgb(138, 44, 226, 0.05);
+  }
+
+  h6 {
+    text-align: left;
+  }
+  
+  p, #link {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  #link {
+    background-image: url(emoji-scared.gif);
+    height: 498px;
+    width: 498px;
+    text-align: center;
+    background-position-x: center;
+  }
+
+  #hypomnesis {
+    background-color: black;
+    color: rgb(188, 31, 31);
+    opacity: 0.6;
+  }
+
+  .lyric {
+    background-color: rgb(102, 92, 92);
+    color: rgb(255, 115, 0);
+    border: orange;
+    border-style: groove;
+    border-width: 0.5cm;
+    margin: 80px;
+    padding: 20px;
+  }
